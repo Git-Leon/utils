@@ -1,6 +1,6 @@
 package com.github.git_leon.utils.collections.maps;
 
-import com.github.git_leon.utils.string.StringAssembler;
+import com.github.git_leon.utils.strings.StringAssembler;
 import com.github.git_leon.utils.collections.arrays.ArrayUtils;
 
 import java.util.Map;
